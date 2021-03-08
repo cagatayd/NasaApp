@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nasa_App</string>
+    <string name="date_taken">Date Taken :</string>
+    <string name="rover_name">Rover Name :</string>
+    <string name="camera_name">Camera Name :</string>
+    <string name="status">Status  :</string>
+    <string name="launch_date">Launch Date :</string>
+    <string name="landing_date">Landing Date :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

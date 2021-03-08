@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/allcamera"
+        android:title="ALL"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/itemFHAZ"
+        android:title="FHAZ"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/itemRHAZ"
+        android:title="RHAZ"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/MAST"
+        android:title="MAST"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/CHEMCAM"
+        android:title="CHEMCAM"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/MAHLI"
+        android:title="MAHLI"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/MARDI"
+        android:title="MARDI"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/NAVCAM"
+        android:title="NAVCAM"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/PANCAM"
+        android:title="PANCAM"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/MINITES"
+        android:title="MINITES"
+        app:showAsAction="never"/>
+
+</menu>
